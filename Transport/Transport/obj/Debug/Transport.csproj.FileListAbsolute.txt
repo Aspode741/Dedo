@@ -1,0 +1,6 @@
+C:\Users\Хозяин\source\repos\Aspode741\Dedo\Transport\Transport\bin\Debug\Transport.dll
+C:\Users\Хозяин\source\repos\Aspode741\Dedo\Transport\Transport\bin\Debug\Transport.pdb
+C:\Users\Хозяин\source\repos\Aspode741\Dedo\Transport\Transport\obj\Debug\Transport.csproj.AssemblyReference.cache
+C:\Users\Хозяин\source\repos\Aspode741\Dedo\Transport\Transport\obj\Debug\Transport.csproj.CoreCompileInputs.cache
+C:\Users\Хозяин\source\repos\Aspode741\Dedo\Transport\Transport\obj\Debug\Transport.dll
+C:\Users\Хозяин\source\repos\Aspode741\Dedo\Transport\Transport\obj\Debug\Transport.pdb

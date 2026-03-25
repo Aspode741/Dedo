@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transport", "Transport\Transport.csproj", "{548FCEB6-AE6F-43FD-813A-4F8F2732A4B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportTest", "TransportTest\TransportTest.csproj", "{5243EA96-52F5-4D91-9E85-84EAA7C56004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{548FCEB6-AE6F-43FD-813A-4F8F2732A4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548FCEB6-AE6F-43FD-813A-4F8F2732A4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548FCEB6-AE6F-43FD-813A-4F8F2732A4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548FCEB6-AE6F-43FD-813A-4F8F2732A4B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5243EA96-52F5-4D91-9E85-84EAA7C56004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5243EA96-52F5-4D91-9E85-84EAA7C56004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5243EA96-52F5-4D91-9E85-84EAA7C56004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5243EA96-52F5-4D91-9E85-84EAA7C56004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E86DB2DC-C151-4329-ACC7-284078276799}
+	EndGlobalSection
+EndGlobal

@@ -44,6 +44,7 @@
     <Compile Include="Automobile.cs" />
     <Compile Include="DVS.cs" />
     <Compile Include="Electro.cs" />
+    <Compile Include="Garage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Registration.cs" />
     <Compile Include="Toplivo.cs" />

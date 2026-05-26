@@ -44,6 +44,7 @@
     <Compile Include="Automobile.cs" />
     <Compile Include="ElectricCar.cs" />
     <Compile Include="FuelType.cs" />
+    <Compile Include="Garage.cs" />
     <Compile Include="InternalCombustionCar.cs" />
     <Compile Include="Registration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
